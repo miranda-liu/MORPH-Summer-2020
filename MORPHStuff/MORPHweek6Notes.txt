@@ -1,0 +1,5 @@
+-what data type is df and what does it stand for: data frame-> pandas data frames are advanced arrays (almost like excel spreadsheets)
+-why do i have these errors?
+-feature and labels
+features are what youre putting into the dataset
+labels are the output

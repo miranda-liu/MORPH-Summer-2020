@@ -1,0 +1,16 @@
+-go over bfs and dijsktra's -> don't understand implementation 
+-problems6.py
+	-line 11: what type of data type is df? Like is the dataframe made of a list?
+	-does doing df = df make a new dataframe or change the old one?, changing the content not a new one
+	-line 26: what type of data type would forecast_col be?, just a string
+	-line 27: df.fillna -> what does inplace=True do?, edit in place, save space
+	-line 31: description right?
+	-line 35
+	-what are df.head and df.tail, df.dropna on line 37
+	-line 50?
+	-errors
+
+best order to watch sentdex:
+1. Matplotlib Series: handling data, organizing, visualizing, graphing data
+2. Pandas Data analysis: fancy lists, reading data from different things
+3. Machine learning
